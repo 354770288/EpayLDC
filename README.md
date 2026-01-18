@@ -35,7 +35,7 @@ git clone https://github.com/354770288/xboard-plugin-epay-ldc. git EpayLDC
 | 通信密钥 | 创建应用后的 key | `xxxxxxxx` |
 | 支付类型 | 固定填写 | `epay` |
 | 显示名称 | 前端显示名称 | `LINUX DO Credit` |
-| 图标 | 支付方式图标 | `[💎](https://linux.do/uploads/default/original/4X/c/c/d/ccd8c210609d498cbeb3d5201d4c259348447562.png)` |
+| 图标 | 支付方式图标 | `https://linux.do/uploads/default/original/4X/c/c/d/ccd8c210609d498cbeb3d5201d4c259348447562.png` |
 
 ### 2.  LINUX DO Credit 后台配置
 
